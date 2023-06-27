@@ -15,8 +15,12 @@
 </h1>
 
 <p align="center">
-<a href="https://seebaasiman.github.io/Sebastian.Siman/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/sebasti%C3%A1nsiman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://seebaasiman.github.io/Sebastian.Siman/">
+ <img alt="Website" src="https://img.shields.io/badge/Website-www.SebastiánSiman.com-blue?style=flat-square&logo=google-chrome">
+</a>
+<a href="https://www.linkedin.com/in/sebasti%C3%A1nsiman/">
+ <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin">
+</a>
 <a href="https://github.com/SeebaaSiman"><img alt="Instagram" src="https://img.shields.io/badge/Github-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:seebaasiman@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
