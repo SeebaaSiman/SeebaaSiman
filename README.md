@@ -5,9 +5,10 @@
 </div>
 
 <h1 align="center">
- <p align="center">
  <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> Where you can find me  <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
 
+</h1>
+ <p align="center">
 
 <a href="https://seebaasiman.github.io/Sebastian.Siman/">
  <img alt="Website" src="https://img.shields.io/badge/Website-www.SebastiánSiman.com-blue?style=flat-square&logo=google-chrome">
@@ -19,4 +20,3 @@
 <a href="mailto:seebaasiman@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 
 </p>
-</h1>
