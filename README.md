@@ -1,7 +1,7 @@
 ![Texto alternativo](https://gist.githubusercontent.com/SeebaaSiman/e24f67dc4bbd7cd6f130d28436c7c4cd/raw/871ed25d75d2b5ed9898f82ae72d82cd713c642e/GitHub-Profile.svg)
 <div  align="center">
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeebaaSiman&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/SeebaaSiman/github-readme-stats)
 </div>
 
 <h1 align="center">
