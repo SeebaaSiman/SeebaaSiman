@@ -2,19 +2,8 @@
 
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> Where you can find me  <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
-<p align="center">
-  <br/>
-  <a href="https://www.linkedin.com/in/sebasti%C3%A1nsiman/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="https://github.com/SeebaaSiman">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
-  </a>
-</p>
-</h1>
 
-<p align="center">
+
 <a href="https://seebaasiman.github.io/Sebastian.Siman/">
  <img alt="Website" src="https://img.shields.io/badge/Website-www.SebastiánSiman.com-blue?style=flat-square&logo=google-chrome">
 </a>
@@ -23,4 +12,4 @@
 </a>
 <a href="https://github.com/SeebaaSiman"><img alt="Instagram" src="https://img.shields.io/badge/Github-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:seebaasiman@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p>
+</h1>
