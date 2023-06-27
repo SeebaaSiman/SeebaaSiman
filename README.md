@@ -6,16 +6,15 @@
 
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> Where you can find me  <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
-
 </h1>
 
 <p align="center">
 &nbsp; <a href="https://github.com/SeebaaSiman" target="_blank" rel="noopener noreferrer">
- <img src="https://img.icons8.com/plasticine/100/000000/github.png" width="50" /></a>  
+ <img src="https://img.icons8.com/plasticine/100/000000/github.png" width="80" /></a>  
 &nbsp; <a href="https://seebaasiman.github.io/Sebastian.Siman/" target="_blank" rel="noopener noreferrer">
- <img src="https://img.icons8.com/plasticine/100/000000/site.png" width="50" /></a>  
+ <img src="https://img.icons8.com/plasticine/100/000000/site.png" width="80" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/sebasti%C3%A1nsiman/" target="_blank" rel="noopener noreferrer">
- <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+ <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="80" /></a>
 &nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer">
- <img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+ <img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="80" /></a>
 </p>
