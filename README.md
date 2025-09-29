@@ -28,7 +28,11 @@ function App() {
       backend: ["node.js", "firebase","postman"]
     },
     hosting_Saas: ["firebase","netlify","vercel"],
-    hobbies: ["coding","family", "basket", "football", "music" ]
+    hobbies: ["coding","family", "basket", "football", "music"],
+contact: {
+email:"seebaasiman@gmail.com",
+linkedin:"/sebasti%C3%A1nsiman",
+portfolio:"https://seebaasiman.github.io/Sebastian.Siman/"
   }
   return <SebastianSiman />
 }
