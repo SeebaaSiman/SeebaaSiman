@@ -29,10 +29,10 @@ function App() {
     },
     hosting_Saas: ["firebase","netlify","vercel"],
     hobbies: ["coding","family", "basket", "football", "music"],
-contact: {
-email:"seebaasiman@gmail.com",
-linkedin:"/sebasti%C3%A1nsiman",
-portfolio:"https://seebaasiman.github.io/Sebastian.Siman/"
+    contact: {
+    email:"seebaasiman@gmail.com",
+    linkedin:"/sebasti%C3%A1nsiman",
+    portfolio:"https://seebaasiman.github.io/Sebastian.Siman/"
   }
   return <SebastianSiman />
 }
@@ -48,7 +48,10 @@ portfolio:"https://seebaasiman.github.io/Sebastian.Siman/"
 
 <p align="center">
 &nbsp; <a href="https://github.com/SeebaaSiman" target="_blank" rel="noopener noreferrer">
- <img src="https://img.icons8.com/plasticine/100/000000/github.png" width="80" /></a>  
+ <img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/60bcd0de-57dd-4925-9f5a-3ca72715735b" />
+</a>  
+  
+
 &nbsp; <a href="https://seebaasiman.github.io/Sebastian.Siman/" target="_blank" rel="noopener noreferrer">
  <img src="https://img.icons8.com/plasticine/100/000000/monitor.png" width="80" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/sebasti%C3%A1nsiman/" target="_blank" rel="noopener noreferrer">
