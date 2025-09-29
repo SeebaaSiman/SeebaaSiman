@@ -1,6 +1,40 @@
-![Texto alternativo](https://gist.githubusercontent.com/SeebaaSiman/e24f67dc4bbd7cd6f130d28436c7c4cd/raw/871ed25d75d2b5ed9898f82ae72d82cd713c642e/GitHub-Profile.svg)
-<div  align="center">
+  <div  align="center">
  
+# Sebastián Siman
+
+Frontend Developer | React.js | node.js
+
+
+
+  <div  align="left">
+
+```javascript
+import Dev from 'Sebastian-Siman'
+
+function App() {
+  const SebastianSiman = {
+    bio: {
+      name: "Sebastián",
+      suername: "Siman",
+      title: "Web Developer",
+      location: "La Plata, Buenos Aires, Argentina"
+    },
+    skills: {
+      languages: ["html", "css", "javascript"],
+      frameworks: {
+        react: ["hooks", "react-router-dom","redux","context api","vite"]
+      },
+      frontend: ["styled-components", "tailwind", "bootstrap","Chakra UI","chart.js"],
+      backend: ["node.js", "firebase","postman"]
+    },
+    hosting_Saas: ["firebase","netlify","vercel"],
+    hobbies: ["coding","family", "basket", "football", "music" ]
+  }
+  return <SebastianSiman />
+}
+```
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeebaaSiman&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/SeebaaSiman/github-readme-stats)
 </div>
 
