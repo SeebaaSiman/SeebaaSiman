@@ -48,7 +48,7 @@ function App() {
 
 <p align="center">
 &nbsp; <a href="https://github.com/SeebaaSiman" target="_blank" rel="noopener noreferrer">
- <img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/60bcd0de-57dd-4925-9f5a-3ca72715735b" />
+ <img width="96" height="96" alt="image" src="https://iconos8.es/icon/4MhUS4CzoLbx/github" />
 </a>  
   
 
