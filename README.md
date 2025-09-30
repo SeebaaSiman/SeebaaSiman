@@ -45,7 +45,7 @@ function App() {
     <a href="https://www.linkedin.com/in/sebasti%C3%A1nsiman/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- &nbsp; <a href="https://github.com/SeebaaSiman" target="_blank" rel="noopener noreferrer">
+ &nbsp; <a href="https://seebaasiman.github.io/Sebastian.Siman/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 
