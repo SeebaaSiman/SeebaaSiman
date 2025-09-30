@@ -41,6 +41,18 @@ function App() {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeebaaSiman&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/SeebaaSiman/github-readme-stats)
 </div>
+<div align="center">
+    <a href="https://www.linkedin.com/in/sebasti%C3%A1nsiman/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+ &nbsp; <a href="https://github.com/SeebaaSiman" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+
+  
+</div>
+
+
 
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> Where you can find me  <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
