@@ -42,12 +42,16 @@ function App() {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeebaaSiman&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/SeebaaSiman/github-readme-stats)
 </div>
 <div align="center">
-    <a href="https://www.linkedin.com/in/sebasti%C3%A1nsiman/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
- &nbsp; <a href="https://seebaasiman.github.io/Sebastian.Siman/" target="_blank" rel="noopener noreferrer">
+   &nbsp; <a href="https://seebaasiman.github.io/Sebastian.Siman/" target="_blank"  >
     <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
+     &nbsp; <a href="https://www.linkedin.com/in/sebasti%C3%A1nsiman/" target="_blank" >
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+     &nbsp; <a href="mailto:seebaasiman@gmail.com" target="_blank"  >
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
 
   
 </div>
@@ -68,6 +72,6 @@ function App() {
  <img src="https://img.icons8.com/plasticine/100/000000/monitor.png" width="80" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/sebasti%C3%A1nsiman/" target="_blank" rel="noopener noreferrer">
  <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="80" /></a>
-&nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer">
+&nbsp; <a href="mailto:seebaasiman@gmail.com" target="_blank" rel="noopener noreferrer">
  <img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="80" /></a>
 </p>
