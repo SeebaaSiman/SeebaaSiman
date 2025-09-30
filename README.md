@@ -51,27 +51,4 @@ function App() {
      &nbsp; <a href="mailto:seebaasiman@gmail.com" target="_blank"  >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-
-  
 </div>
-
-
-
-<h1 align="center">
- <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> Where you can find me  <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
-</h1>
-
-<p align="center">
-&nbsp; <a href="https://github.com/SeebaaSiman" target="_blank" rel="noopener noreferrer">
- <img width="96" height="96" alt="image" src="[https://iconos8.es/icon/4MhUS4CzoLbx/github](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzR1bWh1YTRoMnR2b2YzdjRkMHZ1bmxxNGY2YmZ3MmpqbmZtNHh3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif)" />
-</a>  
- 
-
-&nbsp; <a href="https://seebaasiman.github.io/Sebastian.Siman/" target="_blank" rel="noopener noreferrer">
- <img src="https://img.icons8.com/plasticine/100/000000/monitor.png" width="80" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/sebasti%C3%A1nsiman/" target="_blank" rel="noopener noreferrer">
- <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="80" /></a>
-&nbsp; <a href="mailto:seebaasiman@gmail.com" target="_blank" rel="noopener noreferrer">
- <img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="80" /></a>
-</p>
